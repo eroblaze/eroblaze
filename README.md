@@ -9,7 +9,7 @@ Programmer. Tutor. Student
 * 🌍  I'm based in Uyo
 * 🖥️  See my portfolio at [My Portfolio](http://pee.pythonanywhere.com)
 * ✉️  You can contact me at [eboselumepaul@gmail.com](mailto:eboselumepaul@gmail.com)
-* 🚀  I'm currently working on [wpmonster](http://wpmonster.netlify.app)
+* 🚀  I'm currently working on [typeinit](https://typeinit-docs.vercel.app)
 * 🧠  I'm learning Nextjs
 * 🤝  I'm open to collaborating on interesting projects
 
