@@ -6,11 +6,9 @@ Software Developer and Web Designer
 
 Programmer. Tutor. Student
 
-* 🌍  I'm based in Uyo
-* 🖥️  See my portfolio at [My Portfolio](http://pee.pythonanywhere.com)
+* 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [eboselumepaul@gmail.com](mailto:eboselumepaul@gmail.com)
 * 🚀  I'm currently working on [typeinit](https://typeinit-docs.vercel.app)
-* 🧠  I'm learning Nextjs
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/eroblaze" target="_blank" rel="noreferrer"><img
