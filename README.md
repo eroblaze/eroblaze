@@ -6,9 +6,9 @@ Fullstack Developer
 
 Programmer. Tutor. Student
 
-* ✉️  You can contact me at [eboselumepaul@gmail.com](mailto:eboselumepaul@gmail.com)
 * 🚀  I'm currently working on [typeinit](https://typeinit-docs.vercel.app)
 * 🤝  I'm open to collaborating on interesting projects
+* ✉️  You can contact me at [eboselumepaul@gmail.com](mailto:eboselumepaul@gmail.com)
 
 <a href="https://www.github.com/eroblaze" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/eroblaze?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
