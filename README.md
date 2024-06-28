@@ -1,12 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul Eboselume
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-Fullstack Developer
------------------------------------
-
-Programmer. Tutor. Student
-
-* 🚀  I'm currently working on [typeinit](https://typeinit-docs.vercel.app)
+* 🚀  I'm currently working on erowatch
 * 🤝  I'm open to collaborating on interesting projects
 * ✉️  You can contact me at [eboselumepaul@gmail.com](mailto:eboselumepaul@gmail.com)
 
